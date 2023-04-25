@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://kamalpreetkaur.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Kamal Preet Kaur</h1>
 <h3 align="center">A Passionate Full-stack Web Developer Developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.gUgIK8kl8QXyt7ohG2L8CQHaC5?w=286&h=132&c=7&r=0&o=5&dpr=1.5&pid=1.7")
+(img align="right" alt="Coding" width="400" src="https://th.bing.com/th?id=OIP.qiuKpruUqPl0-d36_zBS_wHaFd&w=290&h=214&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2")
 
 add banner (use your links) :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalpreet34&label=Profile%20views&color=0e75b6&style=flat" alt="kamalpreet34" /> </p>
