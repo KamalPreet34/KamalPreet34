@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at https://KamalPreet34.github.io
+- 👨‍💻 All of my projects are available at https://KamalPreet34.github.io/
 
 - 💬 Ask me about **Nxm, Android**
 
